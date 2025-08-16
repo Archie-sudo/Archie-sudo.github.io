@@ -10,8 +10,8 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Live or Die. Eat or Get Eaten — Official Site">
   <meta property="og:description" content="The Brutal Reality of Life — book by William. Read the synopsis, preview a chapter, and get your copy.">
-  <meta property="og:image" content="https://YOUR_USERNAME.github.io/assets/img/cover-og.jpg">
-  <meta property="og:url" content="https://YOUR_USERNAME.github.io/">
+  <meta property="og:image" content="https://Archie-sudo.github.io/assets/img/cover-og.jpg">
+  <meta property="og:url" content="https://Archie-sudo.github.io/">
   <meta name="twitter:card" content="summary_large_image">
 
   <!-- Fonts (optional; lightweight) -->
@@ -26,7 +26,7 @@
 <body>
   <header class="nav">
     <div class="container nav__wrap">
-      <a class="logo" href="#">William</a>
+      <a class="logo" href="#">William Otakwa</a>
       <nav id="menu" class="menu">
         <a href="#book">The Book</a>
         <a href="#author">Author</a>
@@ -81,11 +81,11 @@
       </div>
       <div>
         <h2>About William</h2>
-        <p>William is a program/public health professional and author of <em>Live or Die. Eat or Get Eaten</em>. He writes at the fault line between psychology, systems, and the raw truth of the modern age.</p>
+        <p>William is a Tech Enthusiast/public health professional and author of <em>Live or Die. Eat or Get Eaten</em>. He writes at the fault line between psychology, systems, and the raw truth of the modern age.</p>
         <div class="socials">
           <a class="chip" href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noopener">LinkedIn</a>
           <a class="chip" href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank" rel="noopener">YouTube</a>
-          <a class="chip" href="mailto:youremail@example.com">Email</a>
+          <a class="chip" href="mailto:williamspeakstech@gmail.com">Email</a>
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
 
   <footer class="footer">
     <div class="container split">
-      <small>© <span id="y"></span> William — All rights reserved.</small>
+      <small>© <span id="y"></span> William Otakwa — All rights reserved.</small>
       <small><a href="privacy.html">Privacy</a></small>
     </div>
   </footer>
