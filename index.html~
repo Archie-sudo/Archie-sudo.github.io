@@ -10,7 +10,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Live or Die. Eat or Get Eaten — Official Site">
   <meta property="og:description" content="The Brutal Reality of Life — book by William. Read the synopsis, preview a chapter, and get your copy.">
-  <meta property="og:image" content="https://Archie-sudo.github.io/assets/img/cover-og.jpg">
+  <meta property="og:image" content="https://Archie-sudo.github.io/assets/img/Live-or-Die.webp">
   <meta property="og:url" content="https://Archie-sudo.github.io/">
   <meta name="twitter:card" content="summary_large_image">
 
@@ -31,7 +31,7 @@
         <a href="#book">The Book</a>
         <a href="#author">Author</a>
         <a href="#buy">Buy</a>
-        <a href="#media">Media</a>
+        
         <a href="#blog">Articles</a>
         <a href="#contact">Contact</a>
       </nav>
@@ -50,29 +50,37 @@
         </div>
       </div>
       <div class="hero__cover">
-        <img src="assets/img/cover.webp" alt="Book cover: Live or Die. Eat or Get Eaten">
+        <img src="assets/img/Live-or-Die.webp" alt="Book cover: Live or Die. Eat or Get Eaten">
       </div>
     </div>
   </section>
 
-  <section id="book" class="section">
-    <div class="container grid-2">
-      <div>
-        <h2>About the Book</h2>
-        <p><strong>Live or Die. Eat or Get Eaten: The Brutal Reality of Life</strong> dissects the instincts, systems, and stories that shape how we struggle, survive, and seek meaning. It’s sharp, unsettling, and strangely hopeful.</p>
-        <ul class="list">
-          <li>Core themes: survival, power, agency, moral ambiguity</li>
-          <li>For readers who like: raw honesty, philosophy, and modern critique</li>
-          <li>Format: Paperback & eBook</li>
-        </ul>
-      </div>
-      <aside class="card">
-        <h3>What readers say</h3>
-        <p class="quote">“Uncomfortable in the best way. I felt seen—and called out.”</p>
-        <p class="quote">“Reads like a wake-up call with receipts.”</p>
-      </aside>
+ <section id="book" class="section">
+  <div class="container grid-2">
+    <div>
+      <h2>About the Book</h2>
+      <p><strong>Live or Die. Eat or Get Eaten: The Brutal Reality of Life</strong> is more than a book. It is a summons for anyone unwilling to linger in mediocrity, a blueprint for those who feel in their bones that they were meant to dominate their space. It is part warning, part manifesto, part battlefield strategy for life as it is, not as we wish it to be.</p>
+
+      <p>In the tradition of Sun Tzu, Machiavelli, and Hemingway, this book dissects the forces that shape power, influence, and survival. Life does not hand out victories, and the line between triumph and being forgotten is thinner than we like to admit. While others hesitate, you must act. While others sleep, you must build. Rise fully or be replaced, because the world has no patience for the idle. As Marcus Aurelius wrote, obstacles are not hindrances, they are the path itself.</p>
+
+      <p>This book hands you the tools you were never taught but always needed. You will learn how to craft habits that make excellence inevitable. You will develop focus so precise it feels surgical. You will acquire strategies to bend but never break under pressure. You will understand the economics of time, the architecture of attention, and the subtle predator dynamics that shape every decision you make. Technology, psychology, distraction, and manipulation will no longer control you. You will learn to turn the table and make them work for you instead.</p>
+
+      <p>Living is never comfortable. It is exacting, demanding, and frequently painful. Eating is not indulgence, it is mastery. It is claiming your career, your calling, your craft, and your God-given ground, and expanding it relentlessly. To die without leaving a mark and to be consumed by circumstance is the default state. This book ensures you will not remain default. You will leave a footprint. You will rise. You will eat where others starve.</p>
+
+      <p><strong>Live or Die. Eat or Get Eaten</strong> is your strategy guide, your wake-up call, your invitation to step fully armed into the arena of life. Read it, absorb it, apply it, or accept that the world will move past you without a backward glance.</p>
     </div>
-  </section>
+    <aside class="card">
+      <h3>What readers say</h3>
+      <p class="quote">“I could feel the grind through every line. This is a book for people who refuse to be ordinary.”</p>
+      <p class="quote">“I read it in one sitting. I laughed, I cried, I hated it and loved it at the same time. William does not sugarcoat life.”</p>
+      <p class="quote">“I keep this book on my desk as a daily reminder. It is brutal, precise, and unforgiving. Just like life.”</p>
+      <p class="quote">“Every chapter feels like a mentor leaning over your shoulder telling you exactly what you need to hear. Painful, illuminating, brilliant.”</p>
+      <p class="quote">“I finished it and immediately wanted to buy copies for friends who sleepwalk through life. This book is a weapon for the awake.”</p>
+    </aside>
+  </div>
+</section>
+
+
 
   <section id="author" class="section alt">
     <div class="container grid-2">
@@ -80,11 +88,17 @@
         <img class="portrait" src="assets/img/author.webp" alt="Author portrait: William">
       </div>
       <div>
-        <h2>About William</h2>
-        <p>William is a Tech Enthusiast/public health professional and author of <em>Live or Die. Eat or Get Eaten</em>. He writes at the fault line between psychology, systems, and the raw truth of the modern age.</p>
+         <h2>About William</h2>
+      <p>William is a Tech Enthusiast, Certified Pentester specializing in Red Teaming, and a Community Health Professional who thrives at the intersection of technology, human behavior, and societal systems. As the author of <em>Live or Die. Eat or Get Eaten</em>, he brings a rare combination of analytical precision and raw insight to both his professional work and his writing.</p>
+      
+      <p>In his career, William has dissected complex systems to uncover vulnerabilities, designed strategies to anticipate and counter threats, and applied the same meticulous attention to human networks, understanding what drives behavior and decision-making. His approach combines technical mastery, psychological acuity, and an unflinching view of the real world, the kind of clarity that turns theory into action and intention into dominance.</p>
+      
+      <p>Beyond his professional accolades, William is a storyteller at heart. He uses his work to illuminate the hidden dynamics that shape our lives and the environments we navigate, distilling lessons from cybersecurity, psychology, and human experience into actionable insights. He writes for those who refuse to accept mediocrity, who are determined to rise above, claim their space, and master their reality. </p>
+      
+      <p>Whether you know him through his research, his ethical hacking exploits, or his fearless literary voice, William’s mission is clear: to equip readers and professionals alike with the tools, mindset, and awareness needed to thrive in a world designed to challenge, distract, and consume the unprepared. His work challenges assumptions, inspires action, and leaves a lasting impact on anyone ready to listen.</p> He writes at the fault line between psychology, systems, and the raw truth of the modern age.</p>
         <div class="socials">
-          <a class="chip" href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noopener">LinkedIn</a>
-          <a class="chip" href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank" rel="noopener">YouTube</a>
+          
+          <a class="chip" href="https://www.youtube.com/@liveordieeatorgeteaten" target="_blank" rel="noopener">YouTube</a>
           <a class="chip" href="mailto:williamspeakstech@gmail.com">Email</a>
         </div>
       </div>
@@ -96,9 +110,9 @@
       <h2>Get the Book</h2>
       <p>Choose your preferred store:</p>
       <div class="store-row">
-        <a class="btn store" href="https://www.amazon.com/dp/YOUR_ASIN" target="_blank" rel="noopener">Amazon</a>
-        <a class="btn store" href="https://play.google.com/books" target="_blank" rel="noopener">Google Play Books</a>
-        <a class="btn store" href="https://YOUR_LOCAL_RETAILER_LINK" target="_blank" rel="noopener">Local Retailer</a>
+        <a class="btn store" href="https://www.amazon.com/Live-Die-Eat-Get-Eaten-ebook/dp/B0F8RGP8HL/ref=sr_1_1?crid=KHFX2Y96I99D&" target="_blank" rel="noopener">Amazon</a>
+        <a class="btn store" href="https://nuriakenya.com/product/live-or-die-eat-or-get-eaten-the-brutal-reality-of-life-by-william-otakwa/" target="_blank" rel="noopener">Nuria Bookstore-Kenya</a>
+        <a class="btn store" href="https://books2read.com/u/bwEYG0" target="_blank" rel="noopener">Other Bookstores Worlwide</a>
       </div>
     </div>
   </section>
@@ -107,30 +121,20 @@
     <div class="container grid-2">
       <div>
         <h2>Read a Sample</h2>
-        <p>Start with the first chapter to feel the tone, rhythm, and argument of the book.</p>
+        <p>Start with the sample chapter to feel the tone, rhythm, and argument of the book.</p>
         <a class="btn primary" href="assets/sample-chapter.pdf" target="_blank" rel="noopener">Open Sample (PDF)</a>
       </div>
       <div class="mini">
         <h3>Table of Contents (preview)</h3>
         <ol>
-          <li>Prologue: The Arena</li>
-          <li>Tool 1: Perception</li>
-          <li>Tool 2: Incentives</li>
+          <li> Digital Predators: The Quiet War of
+Clicks and Chains</li>
         </ol>
       </div>
     </div>
   </section>
 
-  <section id="media" class="section">
-    <div class="container">
-      <h2>Media & Press</h2>
-      <ul class="media-list">
-        <li><strong>Interview:</strong> Title of podcast/interview — <a href="#" target="_blank" rel="noopener">Listen</a></li>
-        <li><strong>Review:</strong> Outlet name — <a href="#" target="_blank" rel="noopener">Read</a></li>
-      </ul>
-      <a class="btn ghost" href="assets/press-kit.zip">Download Press Kit</a>
-    </div>
-  </section>
+  
 
   <section id="blog" class="section alt">
     <div class="container">
@@ -147,9 +151,9 @@
       <div>
         <h2>Contact</h2>
         <p>For readings, interviews, or permissions, reach out directly.</p>
-        <p><a class="btn primary" href="mailto:youremail@example.com">Email William</a></p>
+        <p><a class="btn primary" href="mailto:williamspeakstech@gmail.com">Email William</a></p>
       </div>
-      <form class="contact-form" action="mailto:youremail@example.com" method="post" enctype="text/plain">
+      <form class="contact-form" action="mailto:williamspeakstech@gmail.com" method="post" enctype="text/plain">
         <label>Name <input name="name" required></label>
         <label>Email <input name="email" type="email" required></label>
         <label>Message <textarea name="message" rows="4" required></textarea></label>
@@ -181,18 +185,18 @@
       {
         "@type": "Book",
         "name": "Live or Die. Eat or Get Eaten: The Brutal Reality of Life",
-        "author": {"@type": "Person", "name": "William"},
+        "author": {"@type": "Person", "name": "William Otakwa"},
         "workExample": [{"@type": "Book", "bookFormat": "EBook"}],
         "description": "A fearless look at power, survival, and the human condition.",
-        "image": "https://YOUR_USERNAME.github.io/assets/img/cover-og.jpg"
+        "image": "https://Archie-sudo.github.io/assets/img/cover-og.jpg"
       },
       {
         "@type": "Person",
-        "name": "William",
-        "url": "https://YOUR_USERNAME.github.io/",
+        "name": "William Otakwa",
+        "url": "https://Archie-sudo.github.io/",
         "sameAs": [
-          "https://www.linkedin.com/in/YOUR_LINKEDIN",
-          "https://www.youtube.com/@YOUR_CHANNEL"
+          
+          "https://www.youtube.com/@liveordieeatorgeteaten"
         ]
       }
     ]
