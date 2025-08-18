@@ -141,30 +141,40 @@ Clicks and Chains</li>
   
 
   <section id="blog" class="section alt">
-    <div class="container">
-      <h2>Articles</h2>
-      <ul class="post-list">
-        <li><a href="blog/why-we-choose-fear.html">Why We Choose Fear: The Psychology Behind Risk and Decision-Making</a> — 6 min read</li>
-        <li><a href="blog/the-economy-of-attention.html">The Economy of Attention: How Social Media Profits from Your Focus</a> — 5 min read</li>
-      </ul>
-    </div>
-  </section>
+  <div class="container">
+    <h2>Articles</h2>
+    <ul class="post-list">
+      <li><a href="articles/why-we-choose-fear.html">Why We Choose Fear: The Psychology Behind Risk and Decision-Making</a> — 6 min read</li>
+      <li><a href="articles/the-economy-of-attention.html">The Economy of Attention: How Social Media Profits from Your Focus</a> — 9 min read</li>
+    </ul>
+  </div>
+</section>
 
-  <section id="contact" class="section">
-    <div class="container grid-2">
-      <div>
-        <h2>Contact</h2>
-        <p>For readings, interviews, or permissions, reach out directly.</p>
-        <p><a class="btn primary" href="mailto:williamspeakstech@gmail.com">Email William</a></p>
+
+  <section id="contact">
+  <div class="container">
+    <h2>Contact Me</h2>
+    <form action="https://formspree.io/f/xqalovlw" method="POST" class="contact-form">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" required>
       </div>
-      <form class="contact-form" action="mailto:williamspeakstech@gmail.com" method="post" enctype="text/plain">
-        <label>Name <input name="name" required></label>
-        <label>Email <input name="email" type="email" required></label>
-        <label>Message <textarea name="message" rows="4" required></textarea></label>
-        <button class="btn" type="submit">Send</button>
-      </form>
-    </div>
-  </section>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" name="_replyto" id="email" required>
+      </div>
+
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="5" required></textarea>
+      </div>
+
+      <button type="submit">Send</button>
+    </form>
+  </div>
+</section>
+
 
   <footer class="footer">
     <div class="container split">
@@ -206,5 +216,7 @@ Clicks and Chains</li>
     ]
   }
   </script>
+  <script src="assets/js/form.js" defer></script>
+
 </body>
 </html>
