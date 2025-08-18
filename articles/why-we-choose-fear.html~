@@ -1,32 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta -->
+  <title>Why We Choose Fear — The Psychology Behind Risk and Decision-Making</title>
+  <meta name="description" content="Explore the psychology of fear, why humans gravitate toward it, and how it shapes risk-taking and decision-making in modern life.">
+  <meta name="keywords" content="fear, psychology of fear, risk, decision-making, human behavior, anxiety, survival instincts">
 
-  <!-- SEO Title -->
-  <title>Why We Choose Fear: The Psychology Behind Risk and Decision-Making | William</title>
-
-  <!-- Meta Description -->
-  <meta name="description" content="Explore why humans are wired to choose fear over logic. Discover the psychology of survival, risk-taking, and decision-making in modern life.">
-
-  <!-- Meta Keywords -->
-  <meta name="keywords" content="fear, psychology, decision making, risk, survival, human behavior, William, Live or Die book">
-
-  <!-- Open Graph for Social Media -->
-  <meta property="og:title" content="Why We Choose Fear: The Psychology Behind Risk and Decision-Making" />
-  <meta property="og:description" content="A deep dive into the psychology of fear, survival, and human decision-making. By William, author of Live or Die. Eat or Get Eaten." />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://archie-sudo.github.io/articles/why-we-choose-fear.html" />
-  <meta property="og:image" content="https://archie-sudo.github.io/assets/images/fear-thumbnail.jpg" />
+  <!-- Open Graph (Social Media Preview) -->
+  <meta property="og:title" content="Why We Choose Fear — The Psychology Behind Risk and Decision-Making">
+  <meta property="og:description" content="Dive into the hidden forces behind why humans often choose fear over courage, and how it shapes our daily decisions and future.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://archie-sudo.github.io/articles/why-we-choose-fear.html">
+  <meta property="og:image" content="https://archie-sudo.github.io/assets/fear-thumbnail.jpg">
 
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Why We Choose Fear: The Psychology Behind Risk and Decision-Making" />
-  <meta name="twitter:description" content="Explore how fear shapes our choices, risks, and survival instincts in the modern world." />
-  <meta name="twitter:image" content="https://archie-sudo.github.io/assets/images/fear-thumbnail.jpg" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Why We Choose Fear — The Psychology Behind Risk and Decision-Making">
+  <meta name="twitter:description" content="A psychological deep-dive into fear, risk, and why humans are drawn to the very thing they resist.">
+  <meta name="twitter:image" content="https://archie-sudo.github.io/assets/fear-thumbnail.jpg">
 
-  <link rel="stylesheet" href="../style.css" />
+  <link rel="stylesheet" href="../style.css">
 </head>
 <body>
   <header>
