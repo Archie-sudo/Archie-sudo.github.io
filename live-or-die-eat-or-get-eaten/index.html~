@@ -1,44 +1,23 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Live or Die — William Otakwa</title>
-  <meta name="description" content="Live or Die. Eat or Get Eaten — A manifesto on survival, resilience and mastery.">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/">
+<meta property="og:image" content="https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/assets/images/cover.jpg">
 
-  <!-- Open Graph (good for previews) -->
-  <meta property="og:title" content="Live or Die — William Otakwa">
-  <meta property="og:description" content="A manifesto for those who refuse to be prey.">
-  <meta property="og:url" content="https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/">
-  <meta property="og:image" content="https://archie-sudo.github.io/assets/images/cover.jpg">
-
-  <!-- JSON-LD Book schema (edit price/URL if needed) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "Live or Die. Eat or Get Eaten: The Brutal Reality of Life",
-    "author": { "@type": "Person", "name": "William Otakwa" },
-    "image": "https://archie-sudo.github.io/assets/images/cover.jpg",
-    "isbn": "9789914378986",
-    "datePublished": "2025-05-18",
-    "description": "A manifesto for those who refuse to be prey — survival, habit formation, resilience and mastery.",
-    "publisher": { "@type": "Organization", "name": "William Otakwa" },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/",
-      "priceCurrency": "KES",
-      "price": "1200",
-      "availability": "https://schema.org/InStock"
-    }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Live or Die. Eat or Get Eaten: The Brutal Reality of Life",
+  "author": { "@type": "Person", "name": "William Otakwa" },
+  "image": "https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/assets/images/cover.jpg",
+  "isbn": "9789914378986",
+  "datePublished": "2025-05-18",
+  "description": "A manifesto for those who refuse to be prey — survival, habit formation, resilience and mastery.",
+  "publisher": { "@type": "Organization", "name": "William Otakwa" },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/",
+    "priceCurrency": "KES",
+    "price": "1200",
+    "availability": "https://schema.org/InStock"
   }
-  </script>
-</head>
-<body>
-  <h1>Live or Die — William Otakwa</h1>
-  <img src="/assets/images/cover.jpg" alt="Live or Die book cover" style="max-width:300px;">
-  <p>A manifesto for those who refuse to be prey — survival, habit formation, resilience and mastery.</p>
-  <p><a href="https://archie-sudo.github.io/live-or-die-eat-or-get-eaten/">Permalink to this book</a></p>
-</body>
-</html>
+}
+</script>
+
